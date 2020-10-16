@@ -1,4 +1,4 @@
-### Hi there 👋
+![Cover picture](https://github.com/amandasavluchinske/amandasavluchinske/blob/main/Graphic%20Design.png?raw=true)
 
 <!--
 **amandasavluchinske/amandasavluchinske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
