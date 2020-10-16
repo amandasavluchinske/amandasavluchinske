@@ -1,18 +1,10 @@
 ![Cover picture](https://github.com/amandasavluchinske/amandasavluchinske/blob/main/Graphic%20Design.png?raw=true)
 
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasavluchinske&hide=html&layout=compact&theme=buefy" />
-
-<!--
-**amandasavluchinske/amandasavluchinske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandasavluchinske&hide=html&layout=compact&theme=buefy" /></td>
+        <td>![](https://komarev.com/ghpvc/?username=amandasavluchinske&color=blue&style=flat</td>
+    </tr>   
+</table>
+</center>  
