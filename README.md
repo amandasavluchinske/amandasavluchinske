@@ -1,5 +1,3 @@
-![Cover picture](https://github.com/amandasavluchinske/amandasavluchinske/blob/main/Graphic%20Design.png?raw=true)
-
 <center>
 <table>
     <tr>
